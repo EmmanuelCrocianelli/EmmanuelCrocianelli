@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+perfil+de+GitHub!;Mi+nombre+es+Jacqueline+Atae;Soy+Estudiante+de+Ingeniería+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+perfil+de+GitHub!;Mi+nombre+es+Emmanuel+Crocianelli;Soy+Desarrollador+Full+Stack)](https://git.io/typing-svg)
 
-<h3 align="center">"Hablar es barato. Muéstrame el código"</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+<h3 align="center">Full Stack Developer</h3>
 
 <br>
 
@@ -23,12 +22,10 @@
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+    [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
 
 
-#### Estudiando actualmente:
-  [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
-  [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+
 
 #### Herramientas:
 
@@ -47,11 +44,9 @@
 Habilidades: `Metodologías Ágiles` `Ingeniería de Requerimientos` `Arquitectura de Software` `Ética Profesional`
 `Gestión de Proyectos` `Desarrollo de Software` `Seguridad de Software` `Calidad de Software`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
 **Desarrollador Full Stack** \
-[**One Bit Code**](https://www.onebitcode.com/) • En progreso \
-Habilidades: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`Bulma` `MongoDB` `ElectronJS`
+[**Digital House**](https://www.digitalhouse.com/) • Finalizado \
+Habilidades: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `NodeJs` `ExpressJS`
 
 <br>
 
