@@ -38,12 +38,6 @@
 
 ## Antecedentes Académicos:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
-**Estudiante de Ingeniería de Software** \
-[**UNINTER**](https://www.uninter.com/)  • En progreso\
-Habilidades: `Metodologías Ágiles` `Ingeniería de Requerimientos` `Arquitectura de Software` `Ética Profesional`
-`Gestión de Proyectos` `Desarrollo de Software` `Seguridad de Software` `Calidad de Software`
-
 **Desarrollador Full Stack** \
 [**Digital House**](https://www.digitalhouse.com/) • Finalizado \
 Habilidades: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `NodeJs` `ExpressJS`
