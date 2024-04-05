@@ -33,7 +33,7 @@
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="Icono Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
-  [<img height="48px" width="48px" alt="Icono Workbench" src="https://skillicons.dev/icons?i=workbench"/>](https://www.jetbrains.com/toolbox-app/)
+  [<img height="48px" width="48px" alt="Icono Workbench" src="https://skillicons.dev/icons?i=workbench"/>](https://www.mysql.com/products/workbench/)
 
 
 <br>
