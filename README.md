@@ -20,6 +20,8 @@
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
     [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+    [<img height="48px" width="48px" alt="Icono WordPress" src="https://skillicons.dev/icons?i=wordpress"/>](https://wordpress.com/)
+
 
 
 
@@ -30,6 +32,9 @@
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icono Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
+  [<img height="48px" width="48px" alt="Icono Workbench" src="https://skillicons.dev/icons?i=workbench"/>](https://www.jetbrains.com/toolbox-app/)
+
 
 <br>
 
