@@ -45,7 +45,10 @@ Habilidades: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Gi
 <div>
 <a href="" target="_blank"></a>
 <a href = "mailto: contatomaguiteamoyoema@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/emmanuel-crocianelli-90a5a4291/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/emmanuel-crocianelli-90a5a4291/" target="_blank" rel="noopener noreferrer">
+  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
+</a>
+  
 </div>
 
 
