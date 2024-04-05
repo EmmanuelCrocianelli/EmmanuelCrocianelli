@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+perfil+de+GitHub!;Mi+nombre+es+Emmanuel+Crocianelli;Soy+Desarrollador+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+perfil+de+GitHub!;Mi+nombre+es+Emmanuel+Crocianelli;Soy+Desarrollador+Full+Stack)](https://git.io/typing-svg)
+
 
 <h3 align="center">Full Stack Developer</h3>
 
@@ -43,7 +44,7 @@ Habilidades: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Gi
 ## Contáctame:
 <div>
 <a href="" target="_blank"></a>
-<a href = "mailto: contatojacquelineatae@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto: contatomaguiteamoyoema@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jacquelineatae/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
