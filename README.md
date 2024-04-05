@@ -33,7 +33,7 @@
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icono VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
   [<img height="48px" width="48px" alt="Icono Postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
-  [<img height="48px" width="48px" alt="Icono Workbench" src="https://skillicons.dev/icons?i=workbench"/>](https://www.mysql.com/products/workbench/)
+
 
 
 <br>
@@ -48,13 +48,15 @@ Habilidades: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Gi
 
 ## Contáctame:
 <div>
-<a href="" target="_blank"></a>
-<a href = "mailto: contatomaguiteamoyoema@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/emmanuel-crocianelli-90a5a4291/" target="_blank" rel="noopener noreferrer">
-  <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn">
-</a>
-  
+  <a href="" target="_blank"></a>
+  <a href="mailto:contatomaguiteamoyoema@gmail.com">
+    <img loading="lazy" src="https://skillicons.dev/icons?i=gmail" height="48px" width="48px" alt="Icono Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/emmanuel-crocianelli-90a5a4291/" target="_blank" rel="noopener noreferrer">
+    <img loading="lazy" src="https://skillicons.dev/icons?i=linkedin" height="48px" width="48px" alt="Icono LinkedIn">
+  </a>
 </div>
+
 
 
 ------
