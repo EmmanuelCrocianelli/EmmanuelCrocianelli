@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?
 
 <h3 align="center">Full Stack Developer</h3>
 
