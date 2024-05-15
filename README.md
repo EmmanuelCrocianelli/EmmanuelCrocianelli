@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Full Stack Developer</h3>
 
 <br>
 
