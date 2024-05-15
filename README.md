@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <br>
 
