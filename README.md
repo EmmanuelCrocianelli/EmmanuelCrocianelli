@@ -1,4 +1,3 @@
-color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Bienvenido+a+mi+perfil+de+GitHub!;Mi+nombre+es+Emmanuel+Crocianelli;Soy+Desarrollador+web+Full+Stack)](https://git.io/typing-svg)
 
 
 <h3 align="center">Full Stack Web Developer</h3>
